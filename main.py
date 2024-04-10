@@ -11,7 +11,7 @@ STOCK_ENDPOINT = (f"https://www.alphavantage.co/query/{STOCK_API_KEY}")
 
 
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-GET_NEWS_API = 'kindly use your own api'
+GET_NEWS_API = 'kindly use your own api key'
 
 stock_params = {
     "function": "TIME_SERIES_DAILY",
